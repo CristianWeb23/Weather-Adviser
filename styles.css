@@ -1,0 +1,41 @@
+.whole {
+    background: linear-gradient(70deg, pink, blue);
+    width: 100%;
+    min-height: 100vh;
+    padding: 10px;
+}
+.container {
+    background-color: white;
+    width: 100%;
+    max-width: 540px;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+}
+h3 {
+    opacity: 50;
+    color: grey;
+}
+h4 {
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(24, 53, 240);
+    opacity: 100%;
+    text-align: center;
+}
+.container2 {
+    background-color: white;
+    width: 100%;
+    max-width: 540px;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+}
+p {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-indent: 75px;
+    text-align: justify;
+    color: darkgreen;
+    word-spacing: 10px;
+}
